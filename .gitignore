@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Xamarin_QR_Scanner/Xamarin_QR_Scanner/obj
+/Xamarin_QR_Scanner/Xamarin_QR_Scanner.Android/obj
+/Xamarin_QR_Scanner/Xamarin_QR_Scanner.iOS/obj
