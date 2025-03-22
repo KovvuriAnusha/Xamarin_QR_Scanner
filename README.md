@@ -1,0 +1,1 @@
+# Xamarin_QR_Scanner
